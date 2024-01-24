@@ -1,4 +1,4 @@
-🎨 Passionate 3D Artist | Sculpting, modeling, texturing, animation | Unique style & customized workflow | Music artist 🎤| Airbrush painting🖌️
+🎨 Passionate 3D Artist | Sculpting, modeling, texturing, animation | Unique style & customized workflow | Music artist 🎤| Airbrush painting🖌️| Python Writer
 
 <!---
 Gsmart3d/Gsmart3d is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
